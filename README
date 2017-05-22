@@ -5,7 +5,7 @@
    ​	Given that this project is focused on forestry, the group has decided that using different shades of green would be cartographically the most appropriate. Additionally, due to the association to Oregon State, a shade of orange would also be appropriate. 
 
 
-![colors](C:\Users\jared\Desktop\School\Spring 2017\GEOG 572 Analytics\Project\images\colors.JPG)
+![colors](images/colors.JPG)
 
 
 
