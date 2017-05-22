@@ -19,7 +19,7 @@
 
    ​
 
-![](C:\Users\jared\Desktop\School\Spring 2017\GEOG 572 Analytics\Project\images\tempfont.JPG)
+![](images/tempfont.JPG)
 
 
 
@@ -35,7 +35,7 @@
 
    ​
 
-   ![](C:\Users\jared\Desktop\School\Spring 2017\GEOG 572 Analytics\Project\images\hjlogo2.png)
+   ![](images/hjlogo2.png)
 
 
 
@@ -49,4 +49,4 @@
 
 Current design : Image below shows an recent example of the web design template
 
-![webinterface](C:\Users\jared\Desktop\School\Spring 2017\GEOG 572 Analytics\Project\images\webinterface.png). 
+![webinterface](images/webinterface.png). 
